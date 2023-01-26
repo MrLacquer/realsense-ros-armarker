@@ -1,4 +1,4 @@
-# HRI hand control
+# Realsense ROS AR marker
 
 ## Overview
 
